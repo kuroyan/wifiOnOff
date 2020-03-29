@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.net.wifi.WifiManager
 import android.widget.Button
 import android.widget.Toast
-import android.view.View
+//import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
